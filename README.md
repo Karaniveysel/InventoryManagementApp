@@ -77,7 +77,7 @@ Post              |  /api/productsInDepot/getProductsInDepotsByDto          |   
 Post              |  /api/productsInDepot/productExtractionInDepotsByDto          | Product extraction end point
 
 
-Product extraction 
+Product extraction :
 
 Note : All must be full. Child records are important.
 - /api/productsInDepot/productExtractionInDepotsByDto -> Extraction Services
@@ -90,7 +90,7 @@ Note : All must be full. Child records are important.
 }
 ```
 
-Search Endpoint
+Search Endpoint :
 
 Note : Querying can be done with the specified parameters. Both multiple and single parameters can be given.
 - /api/productsInDepot/getProductsInDepotsByDto -> Extraction Services
