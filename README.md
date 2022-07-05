@@ -22,7 +22,7 @@ Server Build Tools| Maven(Java) or Spring Boot
 ### Accessing Application
 Cpmponent         | URL                                      | Credentials
 ---               | ---                                      | ---
-Frontend          |  http://localhost:8088                   | `testdb/testdb`
+Frontend          |  http://localhost:8081                   | `testdb/testdb`
 
 
 
