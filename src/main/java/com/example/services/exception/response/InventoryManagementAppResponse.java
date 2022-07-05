@@ -4,14 +4,14 @@ import org.springframework.http.HttpStatus;
 
 import java.util.Set;
 
-public class WarehouseResponse<T>
+public class InventoryManagementAppResponse<T>
 {
     private final T data;
     private final String message;
     private final HttpStatus httpStatus;
 
 
-    public WarehouseResponse(T data,String message, HttpStatus httpStatus) {
+    public InventoryManagementAppResponse(T data,String message, HttpStatus httpStatus) {
         this.data = data;
         this.message = message;
         this.httpStatus = httpStatus;
