@@ -37,7 +37,9 @@ Built With : mvn clean install or "InventoryManagementApp" class run
 
 
 # The InventoryManagementApp APIs Services :
-# Inventory Management Services :
+
+
+# Depot Services :
 ### Accessing Application
 Method            | Endpoints                | Credentials
 ---               | ---                      | ---
